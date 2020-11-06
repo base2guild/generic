@@ -1,8 +1,0 @@
-name: example-environment
-dependencies:
-  -numpy
-  -matplotlib
-  -pandas
-  -seaborn
-  -statsmodels
-  -jupyter_dashboards
