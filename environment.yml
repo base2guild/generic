@@ -1,6 +1,9 @@
 name: base2guild-environment
 channels:
-  -conda-forge
 dependencies:
   -numpy
-
+  -matplotlib
+  -pandas
+  -seaborn
+  -statsmodels
+  -jupyter_dashboards
