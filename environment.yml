@@ -1,5 +1,4 @@
-name: base2guild-environment
-channels:
+name: example-environment
 dependencies:
   -numpy
   -matplotlib
