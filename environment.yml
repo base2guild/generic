@@ -1,0 +1,10 @@
+name: base2guild-environment
+channels:
+  -conda-forge
+dependencies:
+  -numpy
+  -matpolotlib
+  -pandas
+  -seaborn
+  -statsmodels
+  -jupyter_dashboards
